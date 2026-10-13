@@ -1,0 +1,11 @@
+
+{
+  "name": "devops-ai-project",
+  "version": "1.0.0",
+  "description": "Cloud-native DevOps learning application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
+
